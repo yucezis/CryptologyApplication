@@ -1,0 +1,14 @@
+C:\Users\Zişan Yüce\source\repos\Kriptoloji\Kriptoloji\bin\Debug\Kriptoloji.exe.config
+C:\Users\Zişan Yüce\source\repos\Kriptoloji\Kriptoloji\bin\Debug\Kriptoloji.exe
+C:\Users\Zişan Yüce\source\repos\Kriptoloji\Kriptoloji\bin\Debug\Kriptoloji.pdb
+C:\Users\Zişan Yüce\source\repos\Kriptoloji\Kriptoloji\obj\Debug\Kriptoloji.csproj.AssemblyReference.cache
+C:\Users\Zişan Yüce\source\repos\Kriptoloji\Kriptoloji\obj\Debug\Kriptoloji.csproj.CoreCompileInputs.cache
+C:\Users\Zişan Yüce\source\repos\Kriptoloji\Kriptoloji\obj\Debug\Kriptoloji.exe
+C:\Users\Zişan Yüce\source\repos\Kriptoloji\Kriptoloji\obj\Debug\Kriptoloji.pdb
+C:\Users\Zişan Yüce\Desktop\Kriptoloji\Kriptoloji\bin\Debug\Kriptoloji.exe.config
+C:\Users\Zişan Yüce\Desktop\Kriptoloji\Kriptoloji\bin\Debug\Kriptoloji.exe
+C:\Users\Zişan Yüce\Desktop\Kriptoloji\Kriptoloji\bin\Debug\Kriptoloji.pdb
+C:\Users\Zişan Yüce\Desktop\Kriptoloji\Kriptoloji\obj\Debug\Kriptoloji.csproj.AssemblyReference.cache
+C:\Users\Zişan Yüce\Desktop\Kriptoloji\Kriptoloji\obj\Debug\Kriptoloji.csproj.CoreCompileInputs.cache
+C:\Users\Zişan Yüce\Desktop\Kriptoloji\Kriptoloji\obj\Debug\Kriptoloji.exe
+C:\Users\Zişan Yüce\Desktop\Kriptoloji\Kriptoloji\obj\Debug\Kriptoloji.pdb
