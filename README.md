@@ -3,7 +3,7 @@
 
 ---
 
-## 🇹🇷 Proje Açıklaması | 🇬🇧 Project Description
+## Proje Açıklaması | Project Description
 
 **TR:**  
 Bu proje, **Türkçe alfabeye uygun olarak** geliştirilmiş çeşitli **klasik şifreleme algoritmalarını** içeren bir C# konsol uygulamasıdır.  
@@ -43,7 +43,7 @@ The purpose is to demonstrate cryptographic principles in practice and understan
 
 ## Şifreleme Yöntemleri | Encryption Methods
 
-| No | 🇹🇷 Yöntem Adı | 🇬🇧 Method Name | Açıklama / Description |
+| No | Yöntem Adı |  Method Name | Açıklama / Description |
 |----|----------------|----------------|-------------------------|
 | 1 | Kaydırmalı Şifreleme | Caesar Cipher | Her harf belirli bir miktar kaydırılır. / Each letter is shifted by a fixed number. |
 | 2 | Doğrusal Şifreleme | Affine Cipher | E(x) = (a*x + b) mod m formülüne göre kodlanır. / Encoded using the affine formula. |
@@ -74,15 +74,14 @@ The purpose is to demonstrate cryptographic principles in practice and understan
 
 ---
 
-## ⚙️ Teknik Bilgiler | Technical Details
+## Teknik Bilgiler | Technical Details
 
 - **Dil / Language:** C#  
 - **Platform:** .NET Framework  
 - **Namespace:** `Kriptoloji`  
 - **Giriş Noktası / Entry Point:** `Main()`  
 - **Kod Yapısı / Code Structure:**  
-  - Her algoritma bağımsız metot olarak tanımlanmıştır.  
-  - OOP prensiplerine uygun yapı kullanılmıştır.  
+  - Her algoritma bağımsız metot olarak tanımlanmıştır.    
   - Konsol tabanlı kullanıcı arayüzü içerir.  
 
 ---
@@ -97,7 +96,7 @@ To practice classical cryptography methods using the Turkish alphabet and unders
 
 ---
 
-## 📜 Lisans | License
+## Lisans | License
 
 Bu proje yalnızca **eğitim amaçlı** hazırlanmıştır.  
 This project is created **for educational purposes only**.
