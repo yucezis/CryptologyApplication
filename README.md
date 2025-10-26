@@ -96,11 +96,3 @@ To practice classical cryptography methods using the Turkish alphabet and unders
 
 ---
 
-## Lisans | License
-
-Bu proje yalnızca **eğitim amaçlı** hazırlanmıştır.  
-This project is created **for educational purposes only**.
-
----
-
-
